@@ -2,7 +2,7 @@
 HZ_Program
 CheckersGame by Alwyn Voorhoeve and Arne Soyez
 
-Repository: https://github.com/asoyez/HZ_Program
+Repository: (https://github.com/AVoorhoeve514/HZ_Program)
 
 Used Design Patterns:
 Factory Method pattern
